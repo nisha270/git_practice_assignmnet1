@@ -6,8 +6,8 @@ for(i=1;i<=num;i++){
   }
 }
 if(count==2){
-   return true;
+   console.log(true);
 }
-if(count>=0){
-  return false;
+else{
+ console.log(false);
 }
